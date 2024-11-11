@@ -32,8 +32,8 @@ To implement a Message Authentication Code (MAC) using a cryptographic hash func
 
 ##  PROGRAM:
 ```
-Name: SAI SANJAY
-Register No : 212223040178
+Name: LEKASRI G
+Register No : 212223100025
 ```
 
 ```
@@ -97,7 +97,7 @@ int main() {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/0f7324b3-a451-4057-9e8c-2f02e4e28ec4)
+![image](https://github.com/user-attachments/assets/82800843-5db8-457a-83f7-5daf2461124c)
 
 
 
