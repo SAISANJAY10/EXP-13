@@ -1,5 +1,7 @@
 # Ex - 13 - MESSAGE AUTHENTICATION CODE(MAC)
 
+## Date:
+
 ## Aim:
 To implement a Message Authentication Code (MAC) using a cryptographic hash function to ensure data integrity and authenticity.
 
